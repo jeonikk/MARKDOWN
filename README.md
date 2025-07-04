@@ -83,6 +83,7 @@ Hello World<br>
 # 이미지
 ![제목](./trable.jpg)
 
+<img src="./trable.jpg" width="300" height="200" alt="" />
 
 
 
@@ -103,7 +104,23 @@ Hello World<br>
 |내용222|Hello World123456|bbbbbb|
 |내용33|Hello World12345678|ccccccc|
 
-# 코드블럭
+# 코드블럭(삼중백틱)
+
+```html
+<!CODTYPE html>
+<html>
+   <head>
+   </head>
+      <body>
+        <h1>HELLO WORLD</h1>
+      </body>
+</html>
+```
+
+
+
+
+
 
 
 
