@@ -80,6 +80,16 @@ Hello World<br>
 [네이버](https://naver.com)
 <a href-"https://naver.com" target-"_blank">새탭 열고 이동</a>
 
+# 이미지
+![제목](./trable.jpg)
+
+
+
+
+
+
+
+
 # 인용문
 > HELLO WORLD
 >
@@ -87,11 +97,11 @@ Hello World<br>
 >> 
 
 # 표 
-|제목|-|
-|-|-|
-|내용1|-|
-|내용2|-|
-|내용3|-|
+|제목|-|-|
+|-:|:-:|:-|
+|내용11111111111|Hello World1234|aaaaa|
+|내용222|Hello World123456|bbbbbb|
+|내용33|Hello World12345678|ccccccc|
 
 # 코드블럭
 
